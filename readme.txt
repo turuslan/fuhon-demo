@@ -1,4 +1,6 @@
 
+# Presentation of Fuhon node and miner functionality. Script runs Fuhon and Lotus nodes and miner and performs storage and retrieval deals.
+
 https://github.com/filecoin-project/lotus/tree/v1.15.1
   make debug
 
